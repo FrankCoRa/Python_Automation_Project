@@ -181,5 +181,6 @@ Thank you for reviewing this project and I hope this application proves useful i
 
 ## More Sources
 You can review this videos to support your project (:
-https://www.youtube.com/watch?v=XdFUpFUDt88
-https://www.youtube.com/watch?v=7aIb6iQZkDw
+
+- https://www.youtube.com/watch?v=XdFUpFUDt88
+- https://www.youtube.com/watch?v=7aIb6iQZkDw
