@@ -178,3 +178,8 @@ extract_profiles(5)
 This is a straightforward method for extracting data from websites in a concise and efficient manner. Always ensure that you comply with privacy regulations and avoid violating Personally Identifiable Information (PII) when handling profiles, addresses, or other sensitive data. If PII is involved, focus on extracting anonymous datasets. The goal of this practice is to identify trends and insights by quantifying data or automating time-consuming processes. 
 
 Thank you for reviewing this project and I hope this application proves useful in your future research endeavors!
+
+## More Sources
+You can review this videos to support your project (:
+https://www.youtube.com/watch?v=XdFUpFUDt88
+https://www.youtube.com/watch?v=7aIb6iQZkDw
