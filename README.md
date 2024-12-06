@@ -12,11 +12,13 @@ I use Jupyter Notebooks with Anaconda Navigator, which conveniently includes the
 
 https://www.anaconda.com/
 
-Install the Driver is necessary. 
+Install the Driver at: 
 
-![Alt text](https://github.com/FrankCoRa/EDA_Waykitech/blob/main/Boxplot_Views.png)
 https://developer.chrome.com/docs/chromedriver/downloads
+
 To avoid conflicts running your code , you must have the same version of your driver as your current explorer ( in my case Chrome)
+
+![Alt text]([https://github.com/FrankCoRa/Python_Automation_Project/blob/main/Chrome_Configuration.png])
 
 ## Web Objective
 Ensure you thoroughly inspect the website you plan to extract data from, as each site has unique class names, buttons, spans, IDs, and other elements. If you switch to a different website, these references will vary, requiring you to re-inspect and adjust your extraction script accordingly. Additionally, when automating clicks using JavaScript, modifications may be necessary. Therefore, it's crucial to be 100% certain of the website setup before executing any automation.
@@ -27,6 +29,8 @@ While I am unable to share the complete automation script due to restrictions, I
 # Automation Code (Python & Java Script)
 
 First of All, Your selenium package has to be updated to the last version. In the case of Anaconda , Go to enviroments> Not Installed > Search Packages (Type Selenium), then install.
+
+![Alt text]([https://github.com/FrankCoRa/Python_Automation_Project/blob/main/Selenium_Anaconda.png])
 
 After installed the packages , Open Jupyter Notebooks and run the following code to update selenium to the latest version.
 
